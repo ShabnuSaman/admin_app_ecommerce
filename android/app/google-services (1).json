@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992155225190",
+    "project_id": "bloc-firebase-study",
+    "storage_bucket": "bloc-firebase-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992155225190:android:d86339ce34384699bef1a7",
+        "android_client_info": {
+          "package_name": "com.example.bloc_login_add_product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1X6_Yyz2m_W03dtCLAM-15T1tUcUlyFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
